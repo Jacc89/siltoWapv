@@ -1,0 +1,14 @@
+Carpeta model
+1 En este se instanciara un archivo con el mismo nombre del controllador en su interior llevara una clase
+con las variables de la base de datos de la tabla correspondiente.
+2 Este llevara el nombre del archivo segido de model.php
+"controlador"model.php
+En su interior esta constituido por archivo un
+include _once ('models/"controlador"') el archivo que lleva en el interior la tabla de la base de datos.
+clase "controlador"model.php extends Model en el interior  una
+1 funcion __construct()
+2 public funcion create()
+3 public funcion read()
+4 public funcion readById()
+5 public funcion update()
+6 public funcion delete()

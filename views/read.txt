@@ -1,0 +1,8 @@
+Carpeta views
+Esta constituido de la carpeta con el nombre de la vista q va contener 
+las vistas del crud lleva en su interior esta constituido por los archivos
+
+1 lista"controlador".php  listado de la vista 
+2 form"controlador".php   formulario de registro de vista
+3 editar"controlador".php  editar los datos del formulario en la base de datos.
+estos son los archivos que se requieren para el crud. 

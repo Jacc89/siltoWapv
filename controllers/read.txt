@@ -1,0 +1,11 @@
+Carpeta controllers
+LLeva un archivo con el nombre del actividad ej:centro.php
+nombre.php
+En su interior esta constituido por archivo una
+clase Archivo extends Controller en el interior  una
+1 funcion __construct()
+2 funcion render()
+3 funcion leer()
+4 funcion crear()
+5 funcion editar()
+6 funcion eliminar()
