@@ -1,0 +1,374 @@
+[6.2.3][10 10.0.18363][14616][64bit][10:03:42.419] DEBUG: send metrics: 0
+[6.2.3][10 10.0.18363][14616][64bit][10:03:42.428] DEBUG: Get serial number for win v2. Root path:'C:/Users/JACC/AppData/Local/Icecream/Icecream Screen Recorder' Drive path:'\\.\C:'
+[6.2.3][10 10.0.18363][14616][64bit][10:03:42.435] DEBUG: HDD OS ID V3:S3P65JKB
+[6.2.3][10 10.0.18363][14616][64bit][10:03:42.669] ERROR: License file not found: C:\Users\JACC\AppData\Local\Icecream\Icecream Screen Recorder\license.lic
+[6.2.3][10 10.0.18363][14616][64bit][10:03:42.834] DEBUG: History file:'C:\Users\JACC\AppData\Local\Icecream\Icecream Screen Recorder\history.ini'
+[6.2.3][10 10.0.18363][14616][64bit][10:03:42.849] DEBUG: File not found 'C:\Users\JACC\AppData\Local\Icecream\Icecream Screen Recorder\history.ini'
+[6.2.3][10 10.0.18363][14616][64bit][10:03:42.863] DEBUG: [OLD ITEMS COUNT:'0' ]
+[6.2.3][10 10.0.18363][14616][64bit][10:03:42.874] DEBUG: Main running...
+[6.2.3][10 10.0.18363][14616][64bit][10:03:42.881] DEBUG: Create main window [STARTED]
+[6.2.3][10 10.0.18363][14616][64bit][10:03:42.922] DEBUG: Main window creation [START]
+[6.2.3][10 10.0.18363][14616][64bit][10:03:43.116] DEBUG: Clear cache path...
+[6.2.3][10 10.0.18363][14616][64bit][10:03:43.131] DEBUG: Clear cache path [OK]
+[6.2.3][10 10.0.18363][14616][64bit][10:03:43.138] DEBUG: Load default settings...
+[6.2.3][10 10.0.18363][14616][64bit][10:03:43.145] DEBUG: Create settings view ...
+[6.2.3][10 10.0.18363][14616][64bit][10:03:43.196] DEBUG: Settings view [STARTED]
+[6.2.3][10 10.0.18363][14616][64bit][10:03:43.233] DEBUG: Setting view. Init audio input devices [STARTED]
+[6.2.3][10 10.0.18363][14616][64bit][10:03:43.246] DEBUG: Enum audio devices [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][10:03:43.258] DEBUG: Mode Input
+[6.2.3][10 10.0.18363][14616][64bit][10:03:43.280] DEBUG: Input device count:1
+[6.2.3][10 10.0.18363][14616][64bit][10:03:43.294] DEBUG: Unable to get exclusive use property for device. Error: 'La operación se completó correctamente.'
+[6.2.3][10 10.0.18363][14616][64bit][10:03:43.306] DEBUG: Unable to get exclusive use property for device. Error: 'La operación se completó correctamente.'
+[6.2.3][10 10.0.18363][14616][64bit][10:03:43.320] DEBUG: Device name:'Microphone (2- High Definition Audio Device)' id:'{0.0.1.00000000}.{eb28dffc-393d-4b36-93f5-d1fab416cbed}' exclusive use: 'true' exclusive prefer: 'true'
+[6.2.3][10 10.0.18363][14616][64bit][10:03:43.345] DEBUG: Enum audio devices [END]
+[6.2.3][10 10.0.18363][14616][64bit][10:03:43.357] DEBUG: Device name:Microphone (2- High Definition Audio Device), Device Id:{0.0.1.00000000}.{eb28dffc-393d-4b36-93f5-d1fab416cbed}, is default:[YES] 
+[6.2.3][10 10.0.18363][14616][64bit][10:03:43.366] DEBUG: Setting view. Init audio input devices [COMPLETE]
+[6.2.3][10 10.0.18363][14616][64bit][10:03:43.374] DEBUG: Setting view. Init audio output devices [STARTED]
+[6.2.3][10 10.0.18363][14616][64bit][10:03:43.382] DEBUG: Enum audio devices [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][10:03:43.389] DEBUG: Mode Output
+[6.2.3][10 10.0.18363][14616][64bit][10:03:43.397] DEBUG: Output device count:1
+[6.2.3][10 10.0.18363][14616][64bit][10:03:43.403] DEBUG: Unable to get exclusive use property for device. Error: 'La operación se completó correctamente.'
+[6.2.3][10 10.0.18363][14616][64bit][10:03:43.410] DEBUG: Unable to get exclusive use property for device. Error: 'La operación se completó correctamente.'
+[6.2.3][10 10.0.18363][14616][64bit][10:03:43.417] DEBUG: Device name:'Altavoces (2- High Definition Audio Device)' id:'{0.0.0.00000000}.{f1e3f67d-7a7e-4238-843a-dec40dcc1d26}' exclusive use: 'true' exclusive prefer: 'true'
+[6.2.3][10 10.0.18363][14616][64bit][10:03:43.425] DEBUG: Enum audio devices [END]
+[6.2.3][10 10.0.18363][14616][64bit][10:03:43.432] DEBUG: Device name:Altavoces (2- High Definition Audio Device), Device Id:{0.0.0.00000000}.{f1e3f67d-7a7e-4238-843a-dec40dcc1d26}, is default:[YES] 
+[6.2.3][10 10.0.18363][14616][64bit][10:03:43.439] DEBUG: Setting view. Init audio output devices [COMPLETE]
+[6.2.3][10 10.0.18363][14616][64bit][10:03:44.328] DEBUG: Settings view. Init record [START]
+[6.2.3][10 10.0.18363][14616][64bit][10:03:44.344] DEBUG: Setting view. Init camera devices [STARTED]
+[6.2.3][10 10.0.18363][14616][64bit][10:03:44.435] DEBUG: Device name:Lenovo EasyCamera
+[6.2.3][10 10.0.18363][14616][64bit][10:03:44.442] DEBUG: Setting view. Init camera devices [COMPLETE]
+[6.2.3][10 10.0.18363][14616][64bit][10:03:44.450] DEBUG: Settings view. Init record [COMPLETE]
+[6.2.3][10 10.0.18363][14616][64bit][10:03:44.462] DEBUG: Settings view [COMPLETE]
+[6.2.3][10 10.0.18363][14616][64bit][10:03:44.470] DEBUG: Create UI controls ...
+[6.2.3][10 10.0.18363][14616][64bit][10:03:44.503] DEBUG: Create task viewer ...
+[6.2.3][10 10.0.18363][14616][64bit][10:03:44.517] DEBUG: Create history viewer ...
+[6.2.3][10 10.0.18363][14616][64bit][10:03:44.561] DEBUG: Create game capture settings viewer ...
+[6.2.3][10 10.0.18363][14616][64bit][10:03:44.874] DEBUG: Create system tray menu ...
+[6.2.3][10 10.0.18363][14616][64bit][10:03:44.917] DEBUG: Create camera receiver hub ...
+[6.2.3][10 10.0.18363][14616][64bit][10:03:44.925] DEBUG: Create camera receiver hub [OK]
+[6.2.3][10 10.0.18363][14616][64bit][10:03:46.286] DEBUG: Main window creation [COMPLETE]
+[6.2.3][10 10.0.18363][14616][64bit][10:03:46.294] DEBUG: Create main window [COMPLETE]
+[6.2.3][10 10.0.18363][14616][64bit][10:03:46.303] DEBUG: Current version:'6.23' Product id:'3'
+[6.2.3][10 10.0.18363][14616][64bit][10:03:46.310] DEBUG: Get serial number for win v2. Root path:'C:/Users/JACC/AppData/Local/Icecream/Icecream Screen Recorder' Drive path:'\\.\C:'
+[6.2.3][10 10.0.18363][14616][64bit][10:03:46.319] DEBUG: HDD OS ID V3:S3P65JKB
+[6.2.3][10 10.0.18363][14616][64bit][10:03:46.339] DEBUG: Updater:Starting
+[6.2.3][10 10.0.18363][14616][64bit][10:03:46.379] DEBUG: Updater:Running
+[6.2.3][10 10.0.18363][14616][64bit][10:03:46.390] DEBUG: Run metrics pipe server...
+[6.2.3][10 10.0.18363][14616][64bit][10:03:46.400] DEBUG: Run metrics pipe server:[OK]
+[6.2.3][10 10.0.18363][14616][64bit][10:03:46.409] DEBUG: Run from insaller:1
+[6.2.3][10 10.0.18363][14616][64bit][10:03:46.797] DEBUG: First run:1. Virtual desktop:1
+[6.2.3][10 10.0.18363][14616][64bit][10:03:46.806] DEBUG: Run DxDiag generation...
+[6.2.3][10 10.0.18363][14616][64bit][10:03:46.816] DEBUG: Run DxDiag from thread pool...
+xec...
+[6.2.3][10 10.0.18363][14616][64bit][10:03:46.817] DEBUG: Start dxdiag process:''
+[6.2.3][10 10.0.18363][14616][64bit][10:03:46.825] DEBUG: Updater:Request url:http://updates.icecreamapps.com/check.php?ver=6.23&pid=3&mh=447fbdcda4f1c411a0e79cdf0b78fe99&h=af8577bb7953bcaeaed303e5b467b266
+
+[6.2.3][10 10.0.18363][14616][64bit][10:03:46.866] DEBUG: Wait dxdiag finish...
+[6.2.3][10 10.0.18363][14616][64bit][10:03:47.231] DEBUG: Updater:Send request [OK]
+Write response to json [OK]
+
+[6.2.3][10 10.0.18363][14616][64bit][10:03:47.244] DEBUG: Updater:NotRunning
+[6.2.3][10 10.0.18363][14616][64bit][10:03:47.252] DEBUG: Updater. exit code:'0' status:'NormalExit'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:07.685] DEBUG: Enum audio devices [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:07.697] DEBUG: Mode Input
+[6.2.3][10 10.0.18363][14616][64bit][10:04:07.710] DEBUG: Input device count:1
+[6.2.3][10 10.0.18363][14616][64bit][10:04:07.718] DEBUG: Unable to get exclusive use property for device. Error: 'La operación se completó correctamente.'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:07.725] DEBUG: Unable to get exclusive use property for device. Error: 'La operación se completó correctamente.'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:07.733] DEBUG: Device name:'Microphone (2- High Definition Audio Device)' id:'{0.0.1.00000000}.{eb28dffc-393d-4b36-93f5-d1fab416cbed}' exclusive use: 'false' exclusive prefer: 'false'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:07.743] DEBUG: Enum audio devices [END]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:07.750] DEBUG: Founded default device ID:'{0.0.1.00000000}.{eb28dffc-393d-4b36-93f5-d1fab416cbed}'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:07.757] DEBUG: Open audio device '{0.0.1.00000000}.{eb28dffc-393d-4b36-93f5-d1fab416cbed}' [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:07.808] DEBUG: New session state =active
+[6.2.3][10 10.0.18363][14616][64bit][10:04:07.819] DEBUG: Open audio device [OK]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:07.828] DEBUG: Audio volume 0.941176
+[6.2.3][10 10.0.18363][14616][64bit][10:04:07.837] DEBUG: Output device Id from settings file:''
+[6.2.3][10 10.0.18363][14616][64bit][10:04:07.844] DEBUG: Enum audio devices [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:07.851] DEBUG: Mode Output
+[6.2.3][10 10.0.18363][14616][64bit][10:04:07.860] DEBUG: Output device count:1
+[6.2.3][10 10.0.18363][14616][64bit][10:04:07.867] DEBUG: Unable to get exclusive use property for device. Error: 'La operación se completó correctamente.'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:07.874] DEBUG: Unable to get exclusive use property for device. Error: 'La operación se completó correctamente.'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:07.882] DEBUG: Device name:'Altavoces (2- High Definition Audio Device)' id:'{0.0.0.00000000}.{f1e3f67d-7a7e-4238-843a-dec40dcc1d26}' exclusive use: 'true' exclusive prefer: 'false'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:07.890] DEBUG: Enum audio devices [END]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:07.897] DEBUG: Founded default device ID:'{0.0.0.00000000}.{f1e3f67d-7a7e-4238-843a-dec40dcc1d26}'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:07.904] DEBUG: Output device after check:'{0.0.0.00000000}.{f1e3f67d-7a7e-4238-843a-dec40dcc1d26}'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:08.045] DEBUG: Open audio device '{0.0.0.00000000}.{f1e3f67d-7a7e-4238-843a-dec40dcc1d26}' [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:08.137] DEBUG: New session state =active
+[6.2.3][10 10.0.18363][14616][64bit][10:04:08.140] DEBUG: Open audio device [OK]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:08.167] DEBUG: Audio volume 1
+[6.2.3][10 10.0.18363][14616][64bit][10:04:08.181] DEBUG: Device name:Lenovo EasyCamera
+[6.2.3][10 10.0.18363][14616][64bit][10:04:08.190] DEBUG: Device name:Lenovo EasyCamera
+[6.2.3][10 10.0.18363][14616][64bit][10:04:08.201] DEBUG: CAMERA [AVALIBLE]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:15.860] DEBUG: Start record by rec panel
+[6.2.3][10 10.0.18363][14616][64bit][10:04:15.870] DEBUG:  Espacio disponible en disco: '358379 (Mb)' Espacio mínimo de disco necesario (limit): '1024 (Mb)'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:15.879] DEBUG: Start record
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.583] DEBUG: Audio volume 0.94
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.598] DEBUG: Audio volume 1
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.608] INFO: -[Read record settings]-
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.614] INFO: Draw mouse cursor:1
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.621] INFO: Hightlight mouse cursor:0
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.628] INFO: Animate mouse clicks:1
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.635] INFO: Draw watermark:1
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.642] INFO: Watermark opacity:85
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.649] INFO: Watermark path:':/images/mini_watermark.png'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.656] INFO: Save folder path:'C:/Users/JACC/Desktop'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.663] INFO: Min free space '1073741824' bytes (1024 Mb)
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.672] INFO: Max file size 4294967296 bytes (4096 Mb)
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.680] DEBUG: Enum audio devices [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.688] DEBUG: Mode Input
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.696] DEBUG: Input device count:1
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.703] DEBUG: Unable to get exclusive use property for device. Error: 'La operación se completó correctamente.'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.711] DEBUG: Unable to get exclusive use property for device. Error: 'La operación se completó correctamente.'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.719] DEBUG: Device name:'Microphone (2- High Definition Audio Device)' id:'{0.0.1.00000000}.{eb28dffc-393d-4b36-93f5-d1fab416cbed}' exclusive use: 'true' exclusive prefer: 'true'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.730] DEBUG: Enum audio devices [END]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.738] DEBUG: Open audio device '{0.0.1.00000000}.{eb28dffc-393d-4b36-93f5-d1fab416cbed}' [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.760] DEBUG: Open audio device [OK]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.771] DEBUG: Write microphone: '[YES]'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.780] DEBUG: Audio microphone device id: ''
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.787] DEBUG: Enum audio devices [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.795] DEBUG: Mode Output
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.805] DEBUG: Output device count:1
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.813] DEBUG: Unable to get exclusive use property for device. Error: 'La operación se completó correctamente.'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.820] DEBUG: Unable to get exclusive use property for device. Error: 'La operación se completó correctamente.'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.828] DEBUG: Device name:'Altavoces (2- High Definition Audio Device)' id:'{0.0.0.00000000}.{f1e3f67d-7a7e-4238-843a-dec40dcc1d26}' exclusive use: 'true' exclusive prefer: 'true'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.838] DEBUG: Enum audio devices [END]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.845] DEBUG: Open audio device '{0.0.0.00000000}.{f1e3f67d-7a7e-4238-843a-dec40dcc1d26}' [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.864] DEBUG: Open audio device [OK]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.872] DEBUG: Write systemsound: '[YES]'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.879] DEBUG: Audio systemsound device id: ''
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.887] INFO: Capture rect:x:0 y:0 width:1366 height:768
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.898] DEBUG: AV codec register all [OK]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.904] DEBUG: Create output video stream [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.911] DEBUG: Video Codec ID:vp8 Name long:libvpx VP8 name short:libvpx
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.918] DEBUG: Create output video stream [OK]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.925] INFO: create output video stream [OK]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.931] DEBUG: Open video output stream [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.952] DEBUG: Bitrate:8812339 Threads:3
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.959] DEBUG: Open video output stream [END]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.966] ERROR: Open output video stream [OK]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.973] DEBUG: Create audio output stream [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.980] DEBUG: Create audio output stream [OK]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:24.986] DEBUG: Open audio output stream [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.000] DEBUG: Open audio output stream [OK]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.008] DEBUG: Video encoder info:File path:C:\Users\JACC\Desktop\ice_video_20201006-100424.webm
+ Video:
+Codec:vp8
+
+ Audio:
+Codec:vorbis
+
+
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.015] DEBUG: Video encoder start [OK]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.037] INFO: PortAudio initialize [OK]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.048] DEBUG: Host Api Count:'1'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.057] DEBUG: WASAPI host found. Device count:'3'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.063] DEBUG: PortAudio input devices::Device name:'Microphone (2- High Definition Audio Device)' id:'{0.0.1.00000000}.{eb28dffc-393d-4b36-93f5-d1fab416cbed}';
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.071] DEBUG: PortAudio output devices::Device name:'Altavoces (2- High Definition Audio Device)' id:'{0.0.0.00000000}.{f1e3f67d-7a7e-4238-843a-dec40dcc1d26}';
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.078] DEBUG: Recorder::setState, 1
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.085] DEBUG: Open audio [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.092] DEBUG: Request audio input format
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.099] DEBUG: Audio input format: ch_number = 2, sample_rate = 44100, bits_sample = 16
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.106] DEBUG: Request audio output format
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.113] DEBUG: Host Api Count:'1'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.120] DEBUG: WASAPI host found. Device count:'3'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.127] DEBUG: Audio ouput format: ch_number = 2, sample_rate = 48000, bits_sample = 16
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.137] DEBUG: Allocating output resampler context
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.145] DEBUG: Allocating input resampler context
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.183] DEBUG: Open mic device [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.190] DEBUG: Device name:'Microphone (2- High Definition Audio Device)' Max channels:'2' Selected channels:'2'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.201] DEBUG: Open mic device [OK]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.208] DEBUG: Open loopback device [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.216] DEBUG: Device name:'Altavoces (2- High Definition Audio Device)' Max channels:'2' Selected channels:'2'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.235] DEBUG: Open loopback device [OK]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.251] DEBUG: Open audio [OK]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.261] DEBUG: Recorder::setState, 2
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.296] INFO: Find monitor for rect: (0, 0, 1365, 767)
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.310] INFO: Starting DDA screen \\.\DISPLAY1 grab on Intel(R) HD Graphics 4000
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.312] DEBUG: Wait dxdiag finished
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.320] INFO: Init GDI capturing
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.327] INFO: Dxdiag tool completed with status: 0, Exit code: 0, Error code: 5
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.336] DEBUG: Allocate frame buffer:'0x000001d3cc170060'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.383] DEBUG: Allocate frame buffer:'0x000001d3cc589060'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:25.953] DEBUG: Allocate frame buffer:'0x000001d3ccdac060'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:39.145] DEBUG: Start record by rec panel
+[6.2.3][10 10.0.18363][14616][64bit][10:04:39.155] DEBUG: Pause record
+[6.2.3][10 10.0.18363][14616][64bit][10:04:39.199] DEBUG: Suspend audio [OK]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:39.209] DEBUG: Recorder::setState, 3
+[6.2.3][10 10.0.18363][14616][64bit][10:04:43.708] DEBUG: Video capture [STOP]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:43.716] DEBUG: Video capture [STOP COMPLETE]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:43.723] DEBUG: Video capture [WAIT]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:43.730] DEBUG: Video capture [WAIT COMPLETE]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:43.737] DEBUG: Mix worker [STOP]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:43.744] DEBUG: Mix worker [STOP COMPLETE]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:43.751] DEBUG: Mix worker [WAIT]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:43.759] DEBUG: Mix worker [WAIT COMPLETE]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:43.785] DEBUG: Video packets count:0
+[6.2.3][10 10.0.18363][14616][64bit][10:04:43.794] DEBUG: Free mem packets count:3
+[6.2.3][10 10.0.18363][14616][64bit][10:04:43.801] DEBUG: Free frame buffer:'0x000001d3cc170060'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:43.811] DEBUG: Free frame buffer:'0x000001d3ccdac060'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:43.820] DEBUG: Free frame buffer:'0x000001d3cc589060'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:43.829] DEBUG: Video frame added:'400' Video frame writed:'400' Audio frame added:'394' Audio frame writed:'394' 
+[6.2.3][10 10.0.18363][14616][64bit][10:04:43.839] DEBUG: Record complete. Save to: 'C:\Users\JACC\Desktop\ice_video_20201006-100424.webm' Time (s):'13' File size: '6511862'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:43.846] DEBUG: Audio analitics:lbZeroBlockCount:'81', lbNonZeroBlockCount:'0', lbZeroBlockSamplesCount:'609622', lbNonZeroBlockSamplesCount:'0', cpZeroBlockCount:'0', cpNonZeroBlockCount:'75', cpZeroBlockSamplesCount:'0', cpNonZeroBlockSamplesCount:'614400', cpLoopbackBufferOverflowCount:'0' cpCaptureBufferOverflowCount:'0'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:43.855] DEBUG: Recorder::setState, 0
+[6.2.3][10 10.0.18363][14616][64bit][10:04:43.957] DEBUG: Record complete
+[6.2.3][10 10.0.18363][14616][64bit][10:04:44.057] DEBUG: BEGIN CREATE RENAME
+[6.2.3][10 10.0.18363][14616][64bit][10:04:44.069] DEBUG: END CREATE RENAME
+[6.2.3][10 10.0.18363][14616][64bit][10:04:44.087] DEBUG: SHOW RENAME
+[6.2.3][10 10.0.18363][14616][64bit][10:04:49.938] DEBUG: Accepted rename. Name changed:[NO]
+[6.2.3][10 10.0.18363][14616][64bit][10:04:49.952] DEBUG: file:'C:\Users\JACC\Desktop\ice_video_20201006-100424.webm' size:'6 MB' resolution:'1366x768' uptime:'00:00:13'
+[6.2.3][10 10.0.18363][14616][64bit][10:04:51.781] DEBUG: Audio volume 0.94
+[6.2.3][10 10.0.18363][14616][64bit][10:04:51.794] DEBUG: Audio volume 1
+[6.2.3][10 10.0.18363][14616][64bit][10:04:51.803] DEBUG: New session state =inactive
+[6.2.3][10 10.0.18363][14616][64bit][10:04:51.875] DEBUG: New session state =inactive
+[6.2.3][10 10.0.18363][14616][64bit][10:58:04.770] DEBUG: Enum audio devices [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][10:58:04.842] DEBUG: Mode Input
+[6.2.3][10 10.0.18363][14616][64bit][10:58:04.855] DEBUG: Input device count:1
+[6.2.3][10 10.0.18363][14616][64bit][10:58:04.867] DEBUG: Unable to get exclusive use property for device. Error: 'La operación se completó correctamente.'
+[6.2.3][10 10.0.18363][14616][64bit][10:58:04.875] DEBUG: Unable to get exclusive use property for device. Error: 'La operación se completó correctamente.'
+[6.2.3][10 10.0.18363][14616][64bit][10:58:04.884] DEBUG: Device name:'Microphone (2- High Definition Audio Device)' id:'{0.0.1.00000000}.{eb28dffc-393d-4b36-93f5-d1fab416cbed}' exclusive use: 'false' exclusive prefer: 'false'
+[6.2.3][10 10.0.18363][14616][64bit][10:58:04.894] DEBUG: Enum audio devices [END]
+[6.2.3][10 10.0.18363][14616][64bit][10:58:04.902] DEBUG: Founded default device ID:'{0.0.1.00000000}.{eb28dffc-393d-4b36-93f5-d1fab416cbed}'
+[6.2.3][10 10.0.18363][14616][64bit][10:58:04.910] DEBUG: Open audio device '{0.0.1.00000000}.{eb28dffc-393d-4b36-93f5-d1fab416cbed}' [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][10:58:04.928] DEBUG: New session state =active
+[6.2.3][10 10.0.18363][14616][64bit][10:58:04.938] DEBUG: Open audio device [OK]
+[6.2.3][10 10.0.18363][14616][64bit][10:58:04.949] DEBUG: Audio volume 0.94
+[6.2.3][10 10.0.18363][14616][64bit][10:58:04.958] DEBUG: Output device Id from settings file:''
+[6.2.3][10 10.0.18363][14616][64bit][10:58:04.968] DEBUG: Enum audio devices [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][10:58:04.977] DEBUG: Mode Output
+[6.2.3][10 10.0.18363][14616][64bit][10:58:04.987] DEBUG: Output device count:1
+[6.2.3][10 10.0.18363][14616][64bit][10:58:04.997] DEBUG: Unable to get exclusive use property for device. Error: 'La operación se completó correctamente.'
+[6.2.3][10 10.0.18363][14616][64bit][10:58:05.004] DEBUG: Unable to get exclusive use property for device. Error: 'La operación se completó correctamente.'
+[6.2.3][10 10.0.18363][14616][64bit][10:58:05.012] DEBUG: Device name:'Altavoces (2- High Definition Audio Device)' id:'{0.0.0.00000000}.{f1e3f67d-7a7e-4238-843a-dec40dcc1d26}' exclusive use: 'true' exclusive prefer: 'false'
+[6.2.3][10 10.0.18363][14616][64bit][10:58:05.022] DEBUG: Enum audio devices [END]
+[6.2.3][10 10.0.18363][14616][64bit][10:58:05.029] DEBUG: Founded default device ID:'{0.0.0.00000000}.{f1e3f67d-7a7e-4238-843a-dec40dcc1d26}'
+[6.2.3][10 10.0.18363][14616][64bit][10:58:05.037] DEBUG: Output device after check:'{0.0.0.00000000}.{f1e3f67d-7a7e-4238-843a-dec40dcc1d26}'
+[6.2.3][10 10.0.18363][14616][64bit][10:58:05.044] DEBUG: Open audio device '{0.0.0.00000000}.{f1e3f67d-7a7e-4238-843a-dec40dcc1d26}' [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][10:58:05.077] DEBUG: New session state =active
+[6.2.3][10 10.0.18363][14616][64bit][10:58:05.078] DEBUG: Open audio device [OK]
+[6.2.3][10 10.0.18363][14616][64bit][10:58:05.092] DEBUG: Audio volume 1
+[6.2.3][10 10.0.18363][14616][64bit][10:58:05.103] DEBUG: Device name:Lenovo EasyCamera
+[6.2.3][10 10.0.18363][14616][64bit][10:58:05.140] DEBUG: Device name:Lenovo EasyCamera
+[6.2.3][10 10.0.18363][14616][64bit][10:58:05.149] DEBUG: CAMERA [AVALIBLE]
+[6.2.3][10 10.0.18363][14616][64bit][11:05:57.059] DEBUG: Start record by rec panel
+[6.2.3][10 10.0.18363][14616][64bit][11:05:57.219] DEBUG:  Espacio disponible en disco: '358369 (Mb)' Espacio mínimo de disco necesario (limit): '1024 (Mb)'
+[6.2.3][10 10.0.18363][14616][64bit][11:05:57.227] DEBUG: Start record
+[6.2.3][10 10.0.18363][14616][64bit][11:06:00.869] DEBUG: Audio volume 1
+[6.2.3][10 10.0.18363][14616][64bit][11:06:00.881] DEBUG: Audio volume 1
+[6.2.3][10 10.0.18363][14616][64bit][11:06:00.905] INFO: -[Read record settings]-
+[6.2.3][10 10.0.18363][14616][64bit][11:06:00.925] INFO: Draw mouse cursor:1
+[6.2.3][10 10.0.18363][14616][64bit][11:06:00.945] INFO: Hightlight mouse cursor:0
+[6.2.3][10 10.0.18363][14616][64bit][11:06:00.961] INFO: Animate mouse clicks:1
+[6.2.3][10 10.0.18363][14616][64bit][11:06:00.981] INFO: Draw watermark:1
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.001] INFO: Watermark opacity:85
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.021] INFO: Watermark path:':/images/mini_watermark.png'
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.037] INFO: Save folder path:'C:/Users/JACC/Desktop'
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.057] INFO: Min free space '1073741824' bytes (1024 Mb)
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.073] INFO: Max file size 4294967296 bytes (4096 Mb)
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.094] DEBUG: Enum audio devices [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.110] DEBUG: Mode Input
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.134] DEBUG: Input device count:1
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.213] DEBUG: Unable to get exclusive use property for device. Error: 'La operación se completó correctamente.'
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.233] DEBUG: Unable to get exclusive use property for device. Error: 'La operación se completó correctamente.'
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.245] DEBUG: Device name:'Microphone (2- High Definition Audio Device)' id:'{0.0.1.00000000}.{eb28dffc-393d-4b36-93f5-d1fab416cbed}' exclusive use: 'true' exclusive prefer: 'true'
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.261] DEBUG: Enum audio devices [END]
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.269] DEBUG: Open audio device '{0.0.1.00000000}.{eb28dffc-393d-4b36-93f5-d1fab416cbed}' [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.298] DEBUG: Open audio device [OK]
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.314] DEBUG: Write microphone: '[YES]'
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.322] DEBUG: Audio microphone device id: ''
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.334] DEBUG: Enum audio devices [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.346] DEBUG: Mode Output
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.358] DEBUG: Output device count:1
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.370] DEBUG: Unable to get exclusive use property for device. Error: 'La operación se completó correctamente.'
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.377] DEBUG: Unable to get exclusive use property for device. Error: 'La operación se completó correctamente.'
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.393] DEBUG: Device name:'Altavoces (2- High Definition Audio Device)' id:'{0.0.0.00000000}.{f1e3f67d-7a7e-4238-843a-dec40dcc1d26}' exclusive use: 'true' exclusive prefer: 'true'
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.409] DEBUG: Enum audio devices [END]
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.421] DEBUG: Open audio device '{0.0.0.00000000}.{f1e3f67d-7a7e-4238-843a-dec40dcc1d26}' [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.485] DEBUG: Open audio device [OK]
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.505] DEBUG: Write systemsound: '[YES]'
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.525] DEBUG: Audio systemsound device id: ''
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.545] INFO: Capture rect:x:0 y:0 width:1366 height:768
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.565] DEBUG: AV codec register all [OK]
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.582] DEBUG: Create output video stream [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.602] DEBUG: Video Codec ID:vp8 Name long:libvpx VP8 name short:libvpx
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.618] DEBUG: Create output video stream [OK]
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.642] INFO: create output video stream [OK]
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.662] DEBUG: Open video output stream [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.721] DEBUG: Bitrate:8812339 Threads:3
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.733] DEBUG: Open video output stream [END]
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.745] ERROR: Open output video stream [OK]
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.757] DEBUG: Create audio output stream [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.765] DEBUG: Create audio output stream [OK]
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.781] DEBUG: Open audio output stream [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.806] DEBUG: Open audio output stream [OK]
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.818] DEBUG: Video encoder info:File path:C:\Users\JACC\Desktop\ice_video_20201006-110601.webm
+ Video:
+Codec:vp8
+
+ Audio:
+Codec:vorbis
+
+
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.834] DEBUG: Video encoder start [OK]
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.877] INFO: PortAudio initialize [OK]
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.893] DEBUG: Host Api Count:'1'
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.901] DEBUG: WASAPI host found. Device count:'3'
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.913] DEBUG: PortAudio input devices::Device name:'Microphone (2- High Definition Audio Device)' id:'{0.0.1.00000000}.{eb28dffc-393d-4b36-93f5-d1fab416cbed}';
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.921] DEBUG: PortAudio output devices::Device name:'Altavoces (2- High Definition Audio Device)' id:'{0.0.0.00000000}.{f1e3f67d-7a7e-4238-843a-dec40dcc1d26}';
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.929] DEBUG: Recorder::setState, 1
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.937] DEBUG: Open audio [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.949] DEBUG: Request audio input format
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.957] DEBUG: Audio input format: ch_number = 2, sample_rate = 44100, bits_sample = 16
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.969] DEBUG: Request audio output format
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.977] DEBUG: Host Api Count:'1'
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.982] DEBUG: WASAPI host found. Device count:'3'
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.994] DEBUG: Audio ouput format: ch_number = 2, sample_rate = 48000, bits_sample = 16
+[6.2.3][10 10.0.18363][14616][64bit][11:06:01.998] DEBUG: Allocating output resampler context
+[6.2.3][10 10.0.18363][14616][64bit][11:06:02.010] DEBUG: Allocating input resampler context
+[6.2.3][10 10.0.18363][14616][64bit][11:06:02.054] DEBUG: Open mic device [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][11:06:02.062] DEBUG: Device name:'Microphone (2- High Definition Audio Device)' Max channels:'2' Selected channels:'2'
+[6.2.3][10 10.0.18363][14616][64bit][11:06:02.077] DEBUG: Open mic device [OK]
+[6.2.3][10 10.0.18363][14616][64bit][11:06:02.089] DEBUG: Open loopback device [BEGIN]
+[6.2.3][10 10.0.18363][14616][64bit][11:06:02.097] DEBUG: Device name:'Altavoces (2- High Definition Audio Device)' Max channels:'2' Selected channels:'2'
+[6.2.3][10 10.0.18363][14616][64bit][11:06:02.117] DEBUG: Open loopback device [OK]
+[6.2.3][10 10.0.18363][14616][64bit][11:06:02.129] DEBUG: Open audio [OK]
+[6.2.3][10 10.0.18363][14616][64bit][11:06:02.137] DEBUG: Recorder::setState, 2
+[6.2.3][10 10.0.18363][14616][64bit][11:06:02.174] INFO: Find monitor for rect: (0, 0, 1365, 767)
+[6.2.3][10 10.0.18363][14616][64bit][11:06:02.184] INFO: Starting DDA screen \\.\DISPLAY1 grab on Intel(R) HD Graphics 4000
+[6.2.3][10 10.0.18363][14616][64bit][11:06:02.195] INFO: Init GDI capturing
+[6.2.3][10 10.0.18363][14616][64bit][11:06:02.204] DEBUG: Allocate frame buffer:'0x000001d3c9aa3060'
+[6.2.3][10 10.0.18363][14616][64bit][11:06:02.260] DEBUG: Allocate frame buffer:'0x000001d3c9eb8060'
+[6.2.3][10 10.0.18363][14616][64bit][11:06:02.662] DEBUG: Allocate frame buffer:'0x000001d3ca6d5060'
+[6.2.3][10 10.0.18363][14616][64bit][11:06:28.233] DEBUG: Allocate frame buffer:'0x000001d3caae2060'
+[6.2.3][10 10.0.18363][14616][64bit][11:06:53.927] DEBUG: Allocate frame buffer:'0x000001d3caef8060'
+[6.2.3][10 10.0.18363][14616][64bit][11:06:54.041] DEBUG: Allocate frame buffer:'0x000001d3cb309060'
+[6.2.3][10 10.0.18363][14616][64bit][11:11:02.351] DEBUG: Record auto stop. Time limit
+[6.2.3][10 10.0.18363][14616][64bit][11:11:02.555] DEBUG: Video capture [STOP]
+[6.2.3][10 10.0.18363][14616][64bit][11:11:02.567] DEBUG: Video capture [STOP COMPLETE]
+[6.2.3][10 10.0.18363][14616][64bit][11:11:02.583] DEBUG: Video capture [WAIT]
+[6.2.3][10 10.0.18363][14616][64bit][11:11:02.591] DEBUG: Video capture [WAIT COMPLETE]
+[6.2.3][10 10.0.18363][14616][64bit][11:11:02.603] DEBUG: Mix worker [STOP]
+[6.2.3][10 10.0.18363][14616][64bit][11:11:02.611] DEBUG: Mix worker [STOP COMPLETE]
+[6.2.3][10 10.0.18363][14616][64bit][11:11:02.623] DEBUG: Mix worker [WAIT]
+[6.2.3][10 10.0.18363][14616][64bit][11:11:02.631] DEBUG: Mix worker [WAIT COMPLETE]
+[6.2.3][10 10.0.18363][14616][64bit][11:11:02.827] DEBUG: Video packets count:0
+[6.2.3][10 10.0.18363][14616][64bit][11:11:02.847] DEBUG: Free mem packets count:6
+[6.2.3][10 10.0.18363][14616][64bit][11:11:02.871] DEBUG: Free frame buffer:'0x000001d3caef8060'
+[6.2.3][10 10.0.18363][14616][64bit][11:11:02.891] DEBUG: Free frame buffer:'0x000001d3c9eb8060'
+[6.2.3][10 10.0.18363][14616][64bit][11:11:02.903] DEBUG: Free frame buffer:'0x000001d3ca6d5060'
+[6.2.3][10 10.0.18363][14616][64bit][11:11:02.927] DEBUG: Free frame buffer:'0x000001d3cb309060'
+[6.2.3][10 10.0.18363][14616][64bit][11:11:02.939] DEBUG: Free frame buffer:'0x000001d3caae2060'
+[6.2.3][10 10.0.18363][14616][64bit][11:11:02.951] DEBUG: Free frame buffer:'0x000001d3c9aa3060'
+[6.2.3][10 10.0.18363][14616][64bit][11:11:02.963] DEBUG: Video frame added:'8616' Video frame writed:'8616' Audio frame added:'8622' Audio frame writed:'8622' 
+[6.2.3][10 10.0.18363][14616][64bit][11:11:02.975] DEBUG: Record complete. Save to: 'C:\Users\JACC\Desktop\ice_video_20201006-110601.webm' Time (s):'300' File size: '64962409'
+[6.2.3][10 10.0.18363][14616][64bit][11:11:02.987] DEBUG: Audio analitics:lbZeroBlockCount:'0', lbNonZeroBlockCount:'1760', lbZeroBlockSamplesCount:'0', lbNonZeroBlockSamplesCount:'13246448', cpZeroBlockCount:'0', cpNonZeroBlockCount:'1617', cpZeroBlockSamplesCount:'0', cpNonZeroBlockSamplesCount:'13246464', cpLoopbackBufferOverflowCount:'0' cpCaptureBufferOverflowCount:'0'
+[6.2.3][10 10.0.18363][14616][64bit][11:11:02.999] DEBUG: Recorder::setState, 0
+[6.2.3][10 10.0.18363][14616][64bit][11:11:03.123] DEBUG: Record complete
+[6.2.3][10 10.0.18363][14616][64bit][11:11:03.259] DEBUG: BEGIN CREATE RENAME
+[6.2.3][10 10.0.18363][14616][64bit][11:11:03.275] DEBUG: END CREATE RENAME
+[6.2.3][10 10.0.18363][14616][64bit][11:11:03.307] DEBUG: SHOW RENAME
+[6.2.3][10 10.0.18363][14616][64bit][11:11:11.677] DEBUG: Accepted rename. Name changed:[NO]
+[6.2.3][10 10.0.18363][14616][64bit][11:11:11.698] DEBUG: file:'C:\Users\JACC\Desktop\ice_video_20201006-110601.webm' size:'61 MB' resolution:'1366x768' uptime:'00:05:00'
+[6.2.3][10 10.0.18363][14616][64bit][11:11:17.687] DEBUG: Audio volume 1
+[6.2.3][10 10.0.18363][14616][64bit][11:11:17.756] DEBUG: Audio volume 1
+[6.2.3][10 10.0.18363][14616][64bit][11:11:17.764] DEBUG: New session state =inactive
+[6.2.3][10 10.0.18363][14616][64bit][11:11:17.776] DEBUG: New session state =inactive

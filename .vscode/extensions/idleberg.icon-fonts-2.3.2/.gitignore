@@ -1,8 +1,0 @@
-*.vsix
-**/yarn.lock
-bower_components/
-node_modules/
-npm-debug.log*
-todo.md
-tools/node_modules
-vendor/

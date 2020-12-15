@@ -4,5 +4,10 @@
 	required = true
 	clean = git-lfs clean -- %f
 [user]
-	name = jacc89
+	name = Jacc89
 	email = laflacalex9@gmail.com
+	username = laflacalex9@gmail.com
+[core]
+	editor = emac
+[init]
+	defaultBranch = master
